@@ -16,7 +16,7 @@ MyButton2.propTypes = {
 };
 
 MyButton2.defaultProps = {
-    onClick: () => alert('Button222 clicked! test2222 GITHUB test'),
+    onClick: () => alert('Button222 clicked! GITHUB branch test'),
 };
 
 export default MyButton2;
